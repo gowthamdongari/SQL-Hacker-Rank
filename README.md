@@ -24,9 +24,11 @@
 # `Table of Contents 📋`
 | **SNo.**  | **Contents**                              | **Solution**  |
 |-----------|-------------------------------------------|-----------|
-| 001.        | [Revising the select query](https://www.hackerrank.com/challenges/revising-the-select-query/problem)   | [answer](https://github.com/gowthamdongari/SQL-Hacker-Rank/blob/47423dde53c2390a34cb42d89c04f3f96da93e3f/01.%20SQL%20Basics/001.Revising%20the%20Select%20Query.sql)  |
-| 002.        | [Revising the select query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)   | [answer]()  |
-
+| 001       | [Revising the select query](https://www.hackerrank.com/challenges/revising-the-select-query/problem)   | [answer](https://github.com/gowthamdongari/SQL-Hacker-Rank/blob/47423dde53c2390a34cb42d89c04f3f96da93e3f/01.%20SQL%20Basics/001.Revising%20the%20Select%20Query.sql)  |
+| 002       | [Revising the select query 2](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)   | [answer]()  |
+| 003       | [Select All]()   | [answer]()  |
+| 004       | [Select by Id]()   | [answer]()  |
+| 005       | [Japanese Cities]()   | [answer]()  |
 
 
 
