@@ -1,0 +1,1 @@
+SELECT DISTINCT(city) FROM station WHERE city not RLIKE "^[aeiou]" OR city NOT RLIKE "[aeiou]$";
